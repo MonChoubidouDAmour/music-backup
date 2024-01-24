@@ -1,4 +1,3 @@
-
 import PySimpleGUI as sg
 from copy import deepcopy
 sg.theme("DarkGrey2")
