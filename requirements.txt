@@ -1,0 +1,5 @@
+Package            Version
+------------------ ----------
+importlib-metadata 7.0.1
+PySimpleGUI        4.60.5
+spotipy            2.23.0
